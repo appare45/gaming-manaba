@@ -1,6 +1,5 @@
 
 @keyframes gaming {
-  /* backgroundを移動させる */
   100% {
     background-position-x: 200%;
   }
@@ -9,9 +8,13 @@ table.stdlist tr.row0,
 .row1 {
   background: linear-gradient(to right, Magenta, yellow, Cyan, Magenta) 0%
     center/200%;
-  animation: gaming 2s linear infinite;
+  animation-name: gaming;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite; 
+  text-shadow: 0 0 2px white;
   &:hover {
     animation: none;
     background: white;
   }
 }
+
