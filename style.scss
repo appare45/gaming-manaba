@@ -10,4 +10,8 @@ table.stdlist tr.row0,
   background: linear-gradient(to right, Magenta, yellow, Cyan, Magenta) 0%
     center/200%;
   animation: gaming 2s linear infinite;
+  &:hover {
+    animation: none;
+    background: white;
+  }
 }

@@ -1,9 +1,6 @@
-# irodukanai-manaba
+# gaming-manaba
 
-> 逆に色づかない manaba
-
-manaba から、色を消します…
-
+manabaのリマインダーをゲーミング仕様にします
 ## Stack
 
 - [Plasmo](https://www.plasmo.com/) - A browser extension development platform
