@@ -1,6 +1,7 @@
 # gaming-manaba
 
 > 256色に色づくmanaba
+
 manabaのリマインダーをゲーミング仕様にします
 ## Stack
 
