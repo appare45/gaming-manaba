@@ -1,8 +1,8 @@
 {
-  "name": "irodukanai-manaba",
-  "displayName": "Irodukanai manaba",
+  "name": "gaming-manaba",
+  "displayName": "Gaming manaba",
   "version": "0.0.1",
-  "description": "逆に色づかない manaba",
+  "description": "🌈 gaming manaba",
   "author": "Ryoga-exe",
   "scripts": {
     "dev": "plasmo dev",
