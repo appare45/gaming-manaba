@@ -3,7 +3,7 @@
 > 256色に色づくmanaba
 
 manabaのリマインダーをゲーミング仕様にします
-[![Image from Gyazo](https://i.gyazo.com/153de191ffd223617c79fdeef474b04e.gif)](https://gyazo.com/153de191ffd223617c79fdeef474b04e)
+![153de191ffd223617c79fdeef474b04e](https://github.com/appare45/gaming-manaba/assets/64473501/16dbcae5-efce-4471-af2b-9e7d6fd8b9d7)
 
 ## インストール方法
 
@@ -16,3 +16,4 @@ manabaのリマインダーをゲーミング仕様にします
 ## Stack
 
 - [Plasmo](https://www.plasmo.com/) - A browser extension development platform
+
