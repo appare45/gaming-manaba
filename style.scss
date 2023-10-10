@@ -1,14 +1,13 @@
+
 @keyframes gaming {
-  0% {
-    filter: hue-rotate(0deg);
-  }
+  /* backgroundを移動させる */
   100% {
-    filter: hue-rotate(360deg);
+    background-position-x: 200%;
   }
 }
-
-html {
-  animation-name: gaming;
-  animation-duration: 1s;
-  animation-iteration-count: infinite;
+table.stdlist tr.row0,
+.row1 {
+  background: linear-gradient(to right, Magenta, yellow, Cyan, Magenta) 0%
+    center/200%;
+  animation: gaming 2s linear infinite;
 }
